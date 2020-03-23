@@ -6,4 +6,7 @@ export const en = {
 	msg4: 'Installed CLI Plugins',	
 	msg5: 'Essential Links',
 	msg6: 'Ecosystem',
+	email: 'E-Mail',
+	password: 'Password',
+	send: 'Send',
 }

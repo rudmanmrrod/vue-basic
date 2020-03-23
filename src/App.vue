@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
+      <router-link to="/login">Login</router-link> |
       <a href="#" @click="setLanguage('en')">EN</a> <a href="#" @click="setLanguage('es')">ES</a>
     </div>
     <router-view/>
